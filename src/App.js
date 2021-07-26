@@ -16,7 +16,7 @@ import cmcm from './static/CMCM.png';
 import cmcmpaper from './static/CMCM.pdf';
 import canada from './static/canada.png';
 import cds from './static/CDS.png';
-import resume from './static/Resume23.pdf';
+import resume from './static/Resume.pdf';
 import hackathon from './static/hosphacks.jpg';
 import covidinsights from './static/covidinsights.png';
 import kaggle from './static/electionprediction.png';
@@ -132,9 +132,9 @@ function App() {
               <Card elevation={0} square={true} >
                 <CardContent className={style.intro}>
                   <Typography variant="h6" className={style.whitetext}>
-                    <b>Hi I'm Jerry, a sophomore attending Cornell with interests in data science and software engineering career opportunities.
-                    I am currently doing research in Professor Fengqi You's group. I am also involved in Cornell Data Science where I help manage the student run
-                    class and create data science tutorials.
+                    <b>Hi I'm Jerry, a junior attending Cornell with interests in data science and software engineering career opportunities.
+                    I am currently doing research in Professor Fengqi You's group in the area of using transformer variational autoencorders for the purpose of molecular design.
+                    I am also involved in Cornell Data Science where I help manage the student run class and create data science tutorials among other leadership responsibilities.
                       </b>
                   </Typography>
                 </CardContent>
